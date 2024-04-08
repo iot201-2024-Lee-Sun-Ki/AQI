@@ -1,1 +1,18 @@
-{}
+{
+    "0fae89996d7c06e8": {
+        "apiKey": "app1",
+        "apiToken": "app1"
+    },
+    "59d572de10680e3f": {
+        "user": "neo",
+        "password": "neo"
+    },
+    "e7d034717a778bdb": {
+        "user": "neo1",
+        "password": "neo1"
+    },
+    "808952fa4340dd28": {
+        "user": "neo2",
+        "password": "neo2"
+    }
+}
